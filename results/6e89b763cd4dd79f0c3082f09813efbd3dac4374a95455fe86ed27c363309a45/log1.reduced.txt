@@ -1,0 +1,828 @@
+[+] Informa��o de se��es...
+    Nome da imagem: C:\Users\user\Documents\Contradef-main\Ambiente_Experimentacao\Amostras\6e89b763cd4dd79f0c3082f09813efbd3dac4374a95455fe86ed27c363309a45.exe
+            A se��o � leg�vel.
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 0
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52f53c58 (ArmFeatureUsageSubscriberFlushNotification)
+    Endere�o da fun��o chamante: 0x7ffa52df50e2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52df67e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 1
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa55330000
+        lpProcName: 0x7ffa503325f8 (RtlGetNtSystemRoot)
+    Endere�o da fun��o chamante: 0x7ffa502eff26
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa55346bb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 2
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa50331fd0 (EventSetInformation)
+    Endere�o da fun��o chamante: 0x7ffa502e4576
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa55372b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] LoadLibraryExW...
+  [-] Chamada RtlAddVectoredExceptionHandler conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 0
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 262144 bytes
+        flAllocationType: 0x3000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d2d0000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 1
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 131072 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d3e0000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 2
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 1048576 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d400000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 3
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8388608 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d500000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 4
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 67108864 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e00000000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 5
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 536870912 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e04000000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 6
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 536870912 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e24000000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 7
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 4194304 bytes
+        flAllocationType: 0x2000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000000000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 8
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8388608 bytes
+        flAllocationType: 0x3000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7def0000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 9
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 131072 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d3e0000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 10
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 4096 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d480000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 11
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 4096 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7d906000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 12
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 4096 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e02030000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 13
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 4096 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e14180000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 14
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 4096 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e34180000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 15
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 1048576 bytes
+        flAllocationType: 0x3000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7e840000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 16
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 65536 bytes
+        flAllocationType: 0x3000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7ea10000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 17
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 65536 bytes
+        flAllocationType: 0x3000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e7ea30000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 18
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000000000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 19
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000002000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 20
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000004000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 21
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000006000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 22
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000008000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 23
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00000a000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 24
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 57344 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00000c000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 25
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 73728 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00001a000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] GetEnvironmentStringsW...
+  [-] Chamada GetEnvironmentStringsW conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 26
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00002c000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 27
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00002e000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 28
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000030000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 29
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000032000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 30
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000034000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 31
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000036000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 32
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000038000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 33
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00003a000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 34
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00003c000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 35
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00003e000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 3
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7cca8 (InitializeCriticalSectionEx)
+    Endere�o da fun��o chamante: 0x7ffa52c09ee6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52dc42c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 4
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7c9c8 (FlsAlloc)
+    Endere�o da fun��o chamante: 0x7ffa52c09ee6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52dd3b20
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 5
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7c9b8 (FlsSetValue)
+    Endere�o da fun��o chamante: 0x7ffa52c09ee6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52da9780
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 6
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7c9c8 (FlsAlloc)
+    Endere�o da fun��o chamante: 0x7ffa52bd76a5
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52dd3b20
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 7
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7cca8 (InitializeCriticalSectionEx)
+    Endere�o da fun��o chamante: 0x7ffa52bda969
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52dc42c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 8
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7c918 (FlsGetValue)
+    Endere�o da fun��o chamante: 0x7ffa52bd3abf
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52da9900
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 9
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7c9b8 (FlsSetValue)
+    Endere�o da fun��o chamante: 0x7ffa52bd635b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52da9780
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 10
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52c7c930 (LCMapStringEx)
+    Endere�o da fun��o chamante: 0x7ffa52bc8178
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52d7bdc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] LoadLibraryExW...
+    Valor de retorno: 140713103392768
+[*] Concluído
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 36
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000040000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 37
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 32768 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000042000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 38
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00004a000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 39
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 49152 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00004c000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 40
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 49152 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000058000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 41
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 32768 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000064000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 42
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00006c000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] VirtualQuery...
+    Informa��o do bloco de mem�ria: 0x0000000000000000(2207331296)				non-cacheable
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 43
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc00006e000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] CreateThread...
+    Informa��o do bloco de mem�ria: 0x0000000000000000(2207337406)				non-cacheable
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 44
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000070000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] WaitForSingleObject...
+    Endere�o da fun��o chamante: 7ff7d17c7d09
+[*] Conclu�do (AGUARDANDO RETORNO)
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 45
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 262144 bytes
+        flAllocationType: 0x3000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0x20e45510000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] SuspendThread...
+  [-] Chamada ResumeThread conclu�da
+[*] Conclu�do
+[+] VirtualAlloc...
+    Thread: 0
+    Id de chamada: 46
+    Endere�o da rotina: 7ffa52dc1950
+    Par�metros: 
+        dwSize: 8192 bytes
+        flAllocationType: 0x1000
+        flProtect: 0x4
+    Endere�o da fun��o chamante: 0x7ff7d17c7d09
+  [-] In�cio da chamada VirtualAlloc
+    Retorno VirtualAlloc: 0xc000072000
+    Aloca��o de mem�ria bem-sucedida.
+  [-] Chamada VirtualAlloc conclu�da
+[*] Conclu�do
+[+] CreateThread...
+[*] Conclu�do (AGUARDANDO RETORNO)

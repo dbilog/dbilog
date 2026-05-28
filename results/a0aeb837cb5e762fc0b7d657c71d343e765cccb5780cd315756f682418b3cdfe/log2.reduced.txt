@@ -1,0 +1,5 @@
+0x7ff745e112b0 | sub rsp, 0x28
+0x7ff745e112b4 | call 0x7ff745e117a0
+0x7ff745e117a0 | mov qword ptr [rsp+0x18], rbx
+0x7ff745e1842e | pop rbx
+0x7ff745e1842f | ret 

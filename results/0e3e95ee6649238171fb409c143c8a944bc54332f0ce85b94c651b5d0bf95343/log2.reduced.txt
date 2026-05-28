@@ -1,0 +1,5 @@
+0x7ff6684831f0 | sub rsp, 0x28
+0x7ff6684831f4 | call 0x7ff668483b30
+0x7ff668483b30 | mov qword ptr [rsp+0x18], rbx
+0x7ff668472c6c | lea rdx, ptr [rbp-0x80]
+0x7ff668472c70 | call 0x7ff668478980

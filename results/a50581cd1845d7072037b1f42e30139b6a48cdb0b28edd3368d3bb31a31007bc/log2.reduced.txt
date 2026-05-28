@@ -1,0 +1,5 @@
+0x7ff78ac81d90 | push rbx
+0x7ff78ac81d91 | push rsi
+0x7ff78ac81d92 | push rdi
+0x7ff78a963d0c | mov ecx, 0x2
+0x7ff78a963d11 | int 0x29

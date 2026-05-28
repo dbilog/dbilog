@@ -1,0 +1,5 @@
+0x7ff79a6715af | push 0xffffffffff10acdf
+0x7ff79a6715b4 | call 0x7ff79a826bdc
+0x7ff79a826bdc | push rdi
+0x7ff79a8093c8 | bswap esi
+0x7ff79a8093ca | jmp 0x7ff79a8d1bf9

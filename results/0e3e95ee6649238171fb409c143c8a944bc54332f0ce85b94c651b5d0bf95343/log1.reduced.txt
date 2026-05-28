@@ -1,0 +1,66 @@
+[+] Informa��o de se��es...
+    Nome da imagem: C:\Users\user\Documents\Contradef-main\Ambiente_Experimentacao\Amostras\0e3e95ee6649238171fb409c143c8a944bc54332f0ce85b94c651b5d0bf95343.exe
+            A se��o � leg�vel.
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 0
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52f53c58 (ArmFeatureUsageSubscriberFlushNotification)
+    Endere�o da fun��o chamante: 0x7ffa52df50e2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52df67e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 1
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa55330000
+        lpProcName: 0x7ffa503325f8 (RtlGetNtSystemRoot)
+    Endere�o da fun��o chamante: 0x7ffa502eff26
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa55346bb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 2
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa50331fd0 (EventSetInformation)
+    Endere�o da fun��o chamante: 0x7ffa502e4576
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa55372b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] LoadLibraryExW...
+  [-] Chamada RtlAllocateHeap conclu�da
+[*] Conclu�do
+[+] CreateFileW...
+    Thread: 0
+    Id de chamada: 0
+    Endereçoo da rotina: 7ffa52d89d30
+    Parâmetros: 
+  [-] Chamada RtlAllocateHeap conclu�da
+[*] Conclu�do
+[+] CreateFileW...
+    Thread: 0
+    Id de chamada: 1
+    Endereçoo da rotina: 7ffa52d89d30
+    Parâmetros: 
+  [-] Chamada RtlAllocateHeap conclu�da
+[*] Conclu�do
+[+] CreateFileW...
+    Thread: 0
+    Id de chamada: 2
+    Endereçoo da rotina: 7ffa52d89d30
+    Parâmetros: 
+[*] Conclu�do

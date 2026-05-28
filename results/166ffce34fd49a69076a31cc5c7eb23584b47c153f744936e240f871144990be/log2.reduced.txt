@@ -1,0 +1,5 @@
+0x7ff771a710ce | ret 
+0x7ff771a704e0 | push rbx
+0x7ff771a704e1 | push rsi
+0x7ff771a70b15 | jnb 0x7ff771a70b34
+0x7ff771a707cc | jmp 0x7ff771a70846

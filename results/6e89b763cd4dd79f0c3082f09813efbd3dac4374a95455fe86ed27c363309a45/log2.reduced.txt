@@ -1,0 +1,5 @@
+0x7ff7d17c7b00 | jmp 0x7ff7d17c41a0
+0x7ff7d17c41a0 | mov rdi, qword ptr [rsp]
+0x7ff7d17c41a4 | lea rsi, ptr [rsp+0x8]
+0x7ff7d1791317 | jl 0x7ff7d1791324
+0x7ff7d1791319 | call 0x7ff7d17be300

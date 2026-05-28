@@ -1,0 +1,11 @@
+7ffa544384c0   T[0]  C:\Windows\System32\KERNEL32.DLL:LocalAlloc
+7ffa5443f0b0   T[0]  C:\Windows\System32\KERNEL32.DLL:GetModuleHandleA
+7ffa5443f0b0   T[0]  C:\Windows\System32\KERNEL32.DLL:GetModuleHandleA
+7ffa544401b0   T[0]  C:\Windows\System32\KERNEL32.DLL:IsDebuggerPresent
+7ffa54421250   T[0]  C:\Windows\System32\KERNEL32.DLL:CheckRemoteDebuggerPresent
+7ffa553cd310   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ZwQueryInformationProcess
+7ffa553cd190   T[0]  C:\Windows\SYSTEM32\ntdll.dll:NtSetInformationThread
+7ffa553cd6b0   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ZwQuerySystemInformation
+7ffa553cd6b0   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ZwQuerySystemInformation
+7ffa544384c0   T[0]  C:\Windows\System32\KERNEL32.DLL:LocalAlloc
+7ffa553cd6b0   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ZwQuerySystemInformation

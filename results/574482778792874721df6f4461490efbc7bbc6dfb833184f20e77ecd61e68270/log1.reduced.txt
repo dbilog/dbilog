@@ -1,0 +1,2142 @@
+[+] Informa��o de se��es...
+    Nome da imagem: C:\Users\User\Documents\Contradef-main\Ambiente_Experimentacao\Amostras\574482778792874721df6f4461490efbc7bbc6dfb833184f20e77ecd61e68270.exe
+            A se��o � leg�vel.
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 6
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8e883c58 (ArmFeatureUsageSubscriberFlushNotification)
+    Endere�o da fun��o chamante: 0x7ffe8e7250e2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e7267e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 7
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8b8425f8 (RtlGetNtSystemRoot)
+    Endere�o da fun��o chamante: 0x7ffe8b7fff26
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f86bb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 8
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8b841fd0 (EventSetInformation)
+    Endere�o da fun��o chamante: 0x7ffe8b7f4576
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb2b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] RegEnumKeyExW...
+  [-] Chamada RegEnumKeyExW concluída
+[*] Concluído
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 9
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbcca8 (InitializeCriticalSectionEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb49ee6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6f42c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 10
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc9c8 (FlsAlloc)
+    Endere�o da fun��o chamante: 0x7ffe8eb49ee6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e703b20
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 11
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc9b8 (FlsSetValue)
+    Endere�o da fun��o chamante: 0x7ffe8eb49ee6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6d9780
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 12
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc9c8 (FlsAlloc)
+    Endere�o da fun��o chamante: 0x7ffe8eb176a5
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e703b20
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 13
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbcca8 (InitializeCriticalSectionEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb1a969
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6f42c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 14
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc918 (FlsGetValue)
+    Endere�o da fun��o chamante: 0x7ffe8eb13abf
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6d9900
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 15
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc9b8 (FlsSetValue)
+    Endere�o da fun��o chamante: 0x7ffe8eb1635b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6d9780
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 16
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc930 (LCMapStringEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb08178
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6abdc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 17
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8f190000
+        lpProcName: 0x7ffe8ebbd3f0 (AreFileApisANSI)
+    Endere�o da fun��o chamante: 0x7ffe8eb0fb9e
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8f1b0bf0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 18
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbd408 (CompareStringEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb0f7e9
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6b5b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 19
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc8e0 (EnumSystemLocalesEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb0f848
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e7104e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 20
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc970 (GetDateFormatEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb0f8a7
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6ff330
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 21
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbcd50 (GetLocaleInfoEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb0f906
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6aec10
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 22
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc980 (GetTimeFormatEx)
+    Endere�o da fun��o chamante: 0x7ffe8eb0f965
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e705f00
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 23
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbcd60 (GetUserDefaultLocaleName)
+    Endere�o da fun��o chamante: 0x7ffe8eb0f9c4
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6cd640
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 24
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc900 (IsValidLocaleName)
+    Endere�o da fun��o chamante: 0x7ffe8eb0fa23
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6a9790
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 25
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc958 (LCIDToLocaleName)
+    Endere�o da fun��o chamante: 0x7ffe8eb0fae1
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6a9860
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 26
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8ebbc940 (LocaleNameToLCID)
+    Endere�o da fun��o chamante: 0x7ffe8eb0fb40
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6f9ff0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 27
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8eec0000
+        lpProcName: 0x7ffe903707b8 (GdiDllInitializeWrapper)
+    Endere�o da fun��o chamante: 0x7ffe9036495e
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8eedeae0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 28
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4165d0 (ImmWINNLSEnableIME)
+    Endere�o da fun��o chamante: 0x7ffe8f39975f
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f18110
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 29
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4165b0 (ImmWINNLSGetEnableStatus)
+    Endere�o da fun��o chamante: 0x7ffe8f399785
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f18160
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 30
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416598 (ImmSendIMEMessageExW)
+    Endere�o da fun��o chamante: 0x7ffe8f3997ab
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f18100
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 31
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416580 (ImmSendIMEMessageExA)
+    Endere�o da fun��o chamante: 0x7ffe8f3997d1
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f180e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 32
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416570 (ImmIMPGetIMEW)
+    Endere�o da fun��o chamante: 0x7ffe8f3997f7
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f17c10
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 33
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416560 (ImmIMPGetIMEA)
+    Endere�o da fun��o chamante: 0x7ffe8f39981d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f17b80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 34
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416550 (ImmIMPQueryIMEW)
+    Endere�o da fun��o chamante: 0x7ffe8f399843
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f17d30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 35
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416540 (ImmIMPQueryIMEA)
+    Endere�o da fun��o chamante: 0x7ffe8f399869
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f17c60
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 36
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416530 (ImmIMPSetIMEW)
+    Endere�o da fun��o chamante: 0x7ffe8f39988f
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f17f50
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 37
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416520 (ImmIMPSetIMEA)
+    Endere�o da fun��o chamante: 0x7ffe8f3998b5
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f17e80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 38
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416508 (ImmAssociateContext)
+    Endere�o da fun��o chamante: 0x7ffe8f3998db
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f09be0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 39
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4164f8 (ImmEscapeA)
+    Endere�o da fun��o chamante: 0x7ffe8f399901
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0eec0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 40
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4164e8 (ImmEscapeW)
+    Endere�o da fun��o chamante: 0x7ffe8f399927
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0f1c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 41
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4164c8 (ImmGetCompositionStringA)
+    Endere�o da fun��o chamante: 0x7ffe8f39994d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0add0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 42
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4164a8 (ImmGetCompositionStringW)
+    Endere�o da fun��o chamante: 0x7ffe8f399973
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0aec0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 43
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416490 (ImmGetCompositionWindow)
+    Endere�o da fun��o chamante: 0x7ffe8f399999
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f01d80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 44
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416480 (ImmGetContext)
+    Endere�o da fun��o chamante: 0x7ffe8f3999bf
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f02e80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 45
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416468 (ImmGetDefaultIMEWnd)
+    Endere�o da fun��o chamante: 0x7ffe8f3999e5
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f05540
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 46
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416458 (ImmIsIME)
+    Endere�o da fun��o chamante: 0x7ffe8f399a0b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f057a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 47
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416440 (ImmReleaseContext)
+    Endere�o da fun��o chamante: 0x7ffe8f399a31
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f05650
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 48
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416428 (ImmRegisterClient)
+    Endere�o da fun��o chamante: 0x7ffe8f399a57
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f04a70
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 49
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416410 (ImmGetCompositionFontW)
+    Endere�o da fun��o chamante: 0x7ffe8f399a7d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f02b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 50
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4163f8 (ImmGetCompositionFontA)
+    Endere�o da fun��o chamante: 0x7ffe8f399aa3
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0ace0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 51
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4163e0 (ImmSetCompositionFontW)
+    Endere�o da fun��o chamante: 0x7ffe8f399ac9
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f01010
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 52
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4163c8 (ImmSetCompositionFontA)
+    Endere�o da fun��o chamante: 0x7ffe8f399aef
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0be90
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 53
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4163b0 (ImmSetCompositionWindow)
+    Endere�o da fun��o chamante: 0x7ffe8f399b15
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f01160
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 54
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4163a0 (ImmNotifyIME)
+    Endere�o da fun��o chamante: 0x7ffe8f399b3b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0f680
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 55
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416390 (ImmLockIMC)
+    Endere�o da fun��o chamante: 0x7ffe8f399b61
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f02f40
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 56
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416380 (ImmUnlockIMC)
+    Endere�o da fun��o chamante: 0x7ffe8f399b87
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f04020
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 57
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416370 (ImmLoadIME)
+    Endere�o da fun��o chamante: 0x7ffe8f399bad
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f04d10
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 58
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416358 (ImmSetOpenStatus)
+    Endere�o da fun��o chamante: 0x7ffe8f399bd3
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0c7a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 59
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416348 (ImmFreeLayout)
+    Endere�o da fun��o chamante: 0x7ffe8f399bf9
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0f450
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 60
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416330 (ImmActivateLayout)
+    Endere�o da fun��o chamante: 0x7ffe8f399c1f
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0e780
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 61
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416318 (ImmGetCandidateWindow)
+    Endere�o da fun��o chamante: 0x7ffe8f399c45
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f028c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 62
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416300 (ImmSetCandidateWindow)
+    Endere�o da fun��o chamante: 0x7ffe8f399c6b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0bdc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 63
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4162e8 (ImmConfigureIMEW)
+    Endere�o da fun��o chamante: 0x7ffe8f399c91
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0ec10
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 64
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4162d0 (ImmGetConversionStatus)
+    Endere�o da fun��o chamante: 0x7ffe8f399cb7
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f029a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 65
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4162b8 (ImmSetConversionStatus)
+    Endere�o da fun��o chamante: 0x7ffe8f399cdd
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0c650
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 66
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4162a0 (ImmSetStatusWindowPos)
+    Endere�o da fun��o chamante: 0x7ffe8f399d03
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0c8a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 67
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416290 (ImmGetImeInfoEx)
+    Endere�o da fun��o chamante: 0x7ffe8f399d29
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f056b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 68
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416280 (ImmLockImeDpi)
+    Endere�o da fun��o chamante: 0x7ffe8f399d4f
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f03910
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 69
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416270 (ImmUnlockImeDpi)
+    Endere�o da fun��o chamante: 0x7ffe8f399d75
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f02850
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 70
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416258 (ImmGetOpenStatus)
+    Endere�o da fun��o chamante: 0x7ffe8f399d9b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f03440
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 71
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416240 (ImmSetActiveContext)
+    Endere�o da fun��o chamante: 0x7ffe8f399dc1
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f01e10
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 72
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416228 (ImmTranslateMessage)
+    Endere�o da fun��o chamante: 0x7ffe8f399de7
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f01440
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 73
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416218 (ImmLoadLayout)
+    Endere�o da fun��o chamante: 0x7ffe8f399e0d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f059b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 74
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416208 (ImmProcessKey)
+    Endere�o da fun��o chamante: 0x7ffe8f399e33
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f04260
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 75
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4161e0 (ImmPutImeMenuItemsIntoMappedFile)
+    Endere�o da fun��o chamante: 0x7ffe8f399e59
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f1e0d0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 76
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4161d0 (ImmGetProperty)
+    Endere�o da fun��o chamante: 0x7ffe8f399e7f
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f10ba0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 77
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4161b0 (ImmSetCompositionStringA)
+    Endere�o da fun��o chamante: 0x7ffe8f399ea5
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0c030
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 78
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416190 (ImmSetCompositionStringW)
+    Endere�o da fun��o chamante: 0x7ffe8f399ecb
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f0c060
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 79
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416178 (ImmEnumInputContext)
+    Endere�o da fun��o chamante: 0x7ffe8f399ef1
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f019a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 80
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416160 (ImmSystemHandler)
+    Endere�o da fun��o chamante: 0x7ffe8f399f17
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f11ca0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 81
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416148 (CtfImmTIMActivate)
+    Endere�o da fun��o chamante: 0x7ffe8f399f3d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f039d0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 82
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416130 (CtfImmRestoreToolbarWnd)
+    Endere�o da fun��o chamante: 0x7ffe8f399f63
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f1ea80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 83
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416118 (CtfImmHideToolbarWnd)
+    Endere�o da fun��o chamante: 0x7ffe8f399f89
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f1e8f0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 84
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4160f8 (CtfImmDispatchDefImeMessage)
+    Endere�o da fun��o chamante: 0x7ffe8f399faf
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f049e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 85
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4160e8 (CtfImmNotify)
+    Endere�o da fun��o chamante: 0x7ffe8f399fd1
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f05590
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 86
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f4160c0 (CtfImmSetDefaultRemoteKeyboardLayout)
+    Endere�o da fun��o chamante: 0x7ffe8f399ff3
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f05990
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 87
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f00000
+        lpProcName: 0x7ffe8f416098 (CtfImmGetCompatibleKeyboardLayout)
+    Endere�o da fun��o chamante: 0x7ffe8f39a015
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f1e740
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 88
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90360000
+        lpProcName: 0x7ffe8ef6f490 (DeleteEnhMetaFile)
+    Endere�o da fun��o chamante: 0x7ffe8eee1d59
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe9036d0e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 89
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f8122a8 (InitializeConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8f67553c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd9eb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 90
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f8122c8 (SleepConditionVariableCS)
+    Endere�o da fun��o chamante: 0x7ffe8f675550
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6fcf80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 91
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f8122e8 (WakeAllConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8f675564
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fc5420
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 92
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa90 (RtlRegisterFeatureConfigurationChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8f5998ee
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f793b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 93
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80ab08 (NtQueryWnfStateData)
+    Endere�o da fun��o chamante: 0x7ffe8f599b72
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe9100fc40
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 94
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aac8 (RtlSubscribeWnfStateChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8f599aa2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb24a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 95
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa50 (RtlDisownModuleHeapAllocation)
+    Endere�o da fun��o chamante: 0x7ffe8f59989a
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fef9a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 96
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa70 (RtlQueryFeatureConfiguration)
+    Endere�o da fun��o chamante: 0x7ffe8f5997b7
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fccbc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 97
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90670000
+        lpProcName: 0x7ffe8f810768 (I_RpcInitNdrImports)
+    Endere�o da fun��o chamante: 0x7ffe8f65963d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe906d6760
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 98
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa30 (RtlDllShutdownInProgress)
+    Endere�o da fun��o chamante: 0x7ffe8f59797b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd3380
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 99
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f810c70 (RtlUnregisterFeatureConfigurationChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8f664c0b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90feee30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 100
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f810ab0 (RtlUnsubscribeWnfNotificationWaitForCompletion)
+    Endere�o da fun��o chamante: 0x7ffe8f662e7b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd25c0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] RegEnumKeyExW...
+  [-] Chamada RegEnumKeyExW concluída
+[*] Concluído
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 104
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8f190000
+        lpProcName: 0x7ffe8e859de8 (SortGetHandle)
+    Endere�o da fun��o chamante: 0x7ffe8e6d0713
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8f19a190
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 105
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8f190000
+        lpProcName: 0x7ffe8e859dd8 (SortCloseHandle)
+    Endere�o da fun��o chamante: 0x7ffe8e6d072a
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8f1afe60
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 106
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f8122a8 (InitializeConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8f67553c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd9eb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 107
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f8122c8 (SleepConditionVariableCS)
+    Endere�o da fun��o chamante: 0x7ffe8f675550
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6fcf80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 108
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f8122e8 (WakeAllConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8f675564
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fc5420
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 109
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa90 (RtlRegisterFeatureConfigurationChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8f5998ee
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f793b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 110
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80ab08 (NtQueryWnfStateData)
+    Endere�o da fun��o chamante: 0x7ffe8f599b72
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe9100fc40
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 111
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aac8 (RtlSubscribeWnfStateChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8f599aa2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb24a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 112
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa50 (RtlDisownModuleHeapAllocation)
+    Endere�o da fun��o chamante: 0x7ffe8f59989a
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fef9a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 113
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8f80aa70 (RtlQueryFeatureConfiguration)
+    Endere�o da fun��o chamante: 0x7ffe8f5997b7
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fccbc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 114
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90670000
+        lpProcName: 0x7ffe8f810768 (I_RpcInitNdrImports)
+    Endere�o da fun��o chamante: 0x7ffe8f65963d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe906d6760
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 115
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f13b6d8 (InitializeConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8f086bec
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd9eb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 116
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f13b6f8 (SleepConditionVariableCS)
+    Endere�o da fun��o chamante: 0x7ffe8f086c00
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6fcf80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 117
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8f13b718 (WakeAllConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8f086c14
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fc5420
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 118
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe90d9f1c8 (InitializeConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe908b1d6c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd9eb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 119
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe90d9f1e8 (SleepConditionVariableCS)
+    Endere�o da fun��o chamante: 0x7ffe908b1d80
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6fcf80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 120
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe90d9f208 (WakeAllConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe908b1d94
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fc5420
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 121
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8f2d0000
+        lpProcName: 0x7ffe90d940a0 (EventWrite)
+    Endere�o da fun��o chamante: 0x7ffe907d70b0
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fbf1f0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 122
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8f2d0000
+        lpProcName: 0x7ffe90d94100 (EventRegister)
+    Endere�o da fun��o chamante: 0x7ffe907d70d6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb2ec0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 123
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8f2d0000
+        lpProcName: 0x7ffe90d94110 (EventUnregister)
+    Endere�o da fun��o chamante: 0x7ffe907d7116
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fc03d0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 124
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90da2c20 (RtlRegisterFeatureConfigurationChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe90861c1f
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f793b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 125
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90d9b198 (NtQueryWnfStateData)
+    Endere�o da fun��o chamante: 0x7ffe90861f29
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe9100fc40
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 126
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90d9b170 (RtlSubscribeWnfStateChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe90861e81
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb24a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 127
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90d941d8 (RtlDisownModuleHeapAllocation)
+    Endere�o da fun��o chamante: 0x7ffe907da70b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fef9a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 128
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90d97b20 (RtlQueryFeatureConfiguration)
+    Endere�o da fun��o chamante: 0x7ffe9082a5ee
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fccbc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 129
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90d941f8 (RtlDllShutdownInProgress)
+    Endere�o da fun��o chamante: 0x7ffe907da78c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd3380
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 130
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8e03dde0 (EventSetInformation)
+    Endere�o da fun��o chamante: 0x7ffe8e02110d
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb2b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 131
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8cdd5fb8 (InitializeConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8c95b5ac
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd9eb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 132
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8cdd5fd8 (SleepConditionVariableCS)
+    Endere�o da fun��o chamante: 0x7ffe8c95b5c0
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e6fcf80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 133
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8cdd5ff8 (WakeAllConditionVariable)
+    Endere�o da fun��o chamante: 0x7ffe8c95b5d4
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fc5420
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 134
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8cdc8dc8 (RtlRegisterFeatureConfigurationChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8c86fe06
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f793b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 135
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8cdc8db0 (NtQueryWnfStateData)
+    Endere�o da fun��o chamante: 0x7ffe8c86fbb6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe9100fc40
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 136
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8cdc8d88 (RtlSubscribeWnfStateChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe8c86fae6
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb24a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 137
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8cdc8d50 (RtlDisownModuleHeapAllocation)
+    Endere�o da fun��o chamante: 0x7ffe8c86fd7a
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fef9a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 138
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8cdc8d10 (RtlQueryFeatureConfiguration)
+    Endere�o da fun��o chamante: 0x7ffe8c86fc3b
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fccbc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 139
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8cdc8d30 (RtlDllShutdownInProgress)
+    Endere�o da fun��o chamante: 0x7ffe8c86fcfb
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd3380
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 140
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90416f28 (RtlRegisterFeatureConfigurationChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe903ac456
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f793b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 141
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90416f10 (NtQueryWnfStateData)
+    Endere�o da fun��o chamante: 0x7ffe903a9b12
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe9100fc40
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 142
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90416e90 (RtlSubscribeWnfStateChangeNotification)
+    Endere�o da fun��o chamante: 0x7ffe903a9a42
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb24a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 143
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90416eb8 (RtlDisownModuleHeapAllocation)
+    Endere�o da fun��o chamante: 0x7ffe903ac36a
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fef9a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 144
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90416f60 (RtlQueryFeatureConfiguration)
+    Endere�o da fun��o chamante: 0x7ffe903ac287
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fccbc0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 145
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe90416ed8 (RtlDllShutdownInProgress)
+    Endere�o da fun��o chamante: 0x7ffe903ac3cb
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fd3380
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 146
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8e858218 (RtlAreLongPathsEnabled)
+    Endere�o da fun��o chamante: 0x7ffe8e6b68b0
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fe51f0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 147
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7df80 (CPAcquireContext)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d7056d0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 148
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7df98 (CPReleaseContext)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d7051e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 149
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7dfb0 (CPGenKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d701140
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 150
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7dfc0 (CPDeriveKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d718f80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 151
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7dfd0 (CPDestroyKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d7048a0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 152
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7dfe0 (CPSetKeyParam)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d71aac0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 153
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7dff0 (CPGetKeyParam)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d705100
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 154
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e000 (CPExportKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d704aa0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 155
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e010 (CPImportKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d701590
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 156
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e020 (CPEncrypt)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d7161b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 157
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e030 (CPDecrypt)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d716100
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 158
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e040 (CPCreateHash)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d703360
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 159
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e050 (CPHashData)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d704d50
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 160
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e060 (CPHashSessionKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d717bf0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 161
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e078 (CPDestroyHash)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d704720
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 162
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e088 (CPSignHash)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d71ec60
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 163
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e098 (CPVerifySignature)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d704110
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 164
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e0b0 (CPGenRandom)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d7054d0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 165
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e0c0 (CPGetUserKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d707d50
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 166
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e0d0 (CPSetProvParam)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d71b5b0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 167
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e0e0 (CPGetProvParam)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d719a80
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 168
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e0f0 (CPSetHashParam)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d701010
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 169
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e100 (CPGetHashParam)
+    Endere�o da fun��o chamante: 0x7ffe8df72d5c
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d704470
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 170
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e110 (CPDuplicateKey)
+    Endere�o da fun��o chamante: 0x7ffe8df72dae
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d7197f0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 171
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8d700000
+        lpProcName: 0x7ffe8df7e120 (CPDuplicateHash)
+    Endere�o da fun��o chamante: 0x7ffe8df72dae
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8d717a00
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 172
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8ec30000
+        lpProcName: 0x7ffe8eeabd98 (GetHashInterface)
+    Endere�o da fun��o chamante: 0x7ffe8ee91bc4
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8ec44460
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do

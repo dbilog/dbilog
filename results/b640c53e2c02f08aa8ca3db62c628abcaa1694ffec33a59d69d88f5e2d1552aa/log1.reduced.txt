@@ -1,0 +1,43 @@
+[+] Informa��o de se��es...
+    Nome da imagem: C:\Users\User\Documents\Contradef-main\Ambiente_Experimentacao\Amostras\b640c53e2c02f08aa8ca3db62c628abcaa1694ffec33a59d69d88f5e2d1552aa.exe
+            A se��o � leg�vel.
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 0
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8e883c58 (ArmFeatureUsageSubscriberFlushNotification)
+    Endere�o da fun��o chamante: 0x7ffe8e7250e2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe8e7267e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 1
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe90f70000
+        lpProcName: 0x7ffe8b8425f8 (RtlGetNtSystemRoot)
+    Endere�o da fun��o chamante: 0x7ffe8b7fff26
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90f86bb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 2
+    Endere�o da rotina: 0x7ffe8e6d07b0
+    Par�metros: 
+        hModule: 0x7ffe8e690000
+        lpProcName: 0x7ffe8b841fd0 (EventSetInformation)
+    Endere�o da fun��o chamante: 0x7ffe8b7f4576
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffe90fb2b30
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do

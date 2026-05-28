@@ -1,0 +1,49 @@
+[+] Informa��o de se��es...
+    Nome da imagem: C:\Users\user\Documents\Contradef-main\Ambiente_Experimentacao\Amostras\a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe\a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe
+            A se��o � leg�vel.
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 0
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa52d60000
+        lpProcName: 0x7ffa52f53c58 (ArmFeatureUsageSubscriberFlushNotification)
+    Endere�o da fun��o chamante: 0x7ffa52df50e2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa52df67e0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] LoadLibraryExW...
+  [-] Chamada RtlAllocateHeap conclu�da
+[*] Conclu�do
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 7
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa55330000
+        lpProcName: 0x7ffa544a6178 (RtlGetNtSystemRoot)
+    Endere�o da fun��o chamante: 0x7ffa5443b8f2
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa55346bb0
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do
+[+] WaitForSingleObject...
+    Valor de retorno: 140713069641728
+[*] Concluído
+[+] GetProcAddress...
+    Thread: 0
+    Id de chamada: 8
+    Endere�o da rotina: 0x7ffa52da07b0
+    Par�metros: 
+        hModule: 0x7ffa55330000
+        lpProcName: 0x7ffa543914b0 (RtlDllShutdownInProgress)
+    Endere�o da fun��o chamante: 0x7ffa543169ea
+  [-] In�cio da chamada GetProcAddress
+    Retorno GetProcAddress: 0x7ffa55393380
+    Fun��o obtida com sucesso.
+  [-] Chamada GetProcAddress conclu�da
+[*] Conclu�do

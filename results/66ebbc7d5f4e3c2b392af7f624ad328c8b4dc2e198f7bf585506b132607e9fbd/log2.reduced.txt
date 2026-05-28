@@ -1,0 +1,5 @@
+0x7ff7ee26cb58 | ret 
+0x7ff7ee26bf60 | push rbx
+0x7ff7ee26bf61 | push rsi
+0x7ff7ee26cb79 | pop rcx
+0x7ff7ee26cb7a | jmp 0x7ff7ee26cb61

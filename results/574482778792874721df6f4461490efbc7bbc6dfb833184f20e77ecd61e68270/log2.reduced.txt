@@ -1,0 +1,5 @@
+0x60bd088c | mov r10, 0x60bd0860
+0x60bd0896 | mov rax, 0x7ffe4a4121b0
+0x60bd08a0 | jmp rax
+0x60bd08e6 | mov rax, 0x7ffe4a4121b0
+0x60bd08f0 | jmp rax

@@ -1,0 +1,5 @@
+7ffe91010b87   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ExpInterlockedPopEntrySListResume
+7ffe91010b87   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ExpInterlockedPopEntrySListResume
+7ffe91010b97   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ExpInterlockedPopEntrySListFault
+7ffe91010b87   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ExpInterlockedPopEntrySListResume
+7ffe91010b87   T[0]  C:\Windows\SYSTEM32\ntdll.dll:ExpInterlockedPopEntrySListResume

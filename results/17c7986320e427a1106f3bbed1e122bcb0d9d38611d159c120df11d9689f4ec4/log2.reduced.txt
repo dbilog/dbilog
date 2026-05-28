@@ -1,0 +1,5 @@
+0x7ff77186cb58 | ret 
+0x7ff77186bf60 | push rbx
+0x7ff77186bf61 | push rsi
+0x7ff771854fe9 | ret 
+0x7ff771851540 | ret 
